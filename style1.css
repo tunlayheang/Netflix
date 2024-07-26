@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(25, 6, 6);
+    color:rgb(190, 198, 206);
+    text-align: center;
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+}
+h1{
+    color:azure;
+    margin: 20px;
+
+    
+}
+p{
+    color:azure;
+    margin: 15px;
+}
+.movie-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.movie-img{
+    margin: 10px 10px;
+    text-align: center;
+    background-color: rgb(50, 11, 11);
+    
+}
+.
